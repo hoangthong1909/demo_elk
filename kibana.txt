@@ -1,0 +1,4 @@
+--Xem index
+http://localhost:5601/app/management/data/index_management/indices
+-- Xem log
+- Tạo index pattern => http://localhost:5601/app/discover
